@@ -1,0 +1,5 @@
+﻿A:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (huawei102.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Entrance.cpp
+E:\source code\nowcoder_huawei\huawei102\huawei102\MMsRandomNum.h(4,9): warning C4067:  预处理器指令后有意外标记 - 应输入换行符
+E:\source code\nowcoder_huawei\huawei102\huawei102\MMsRandomNum.h(8,34): warning C4101:  “arr”: 未引用的局部变量
+  huawei102.vcxproj -> E:\source code\nowcoder_huawei\huawei102\Debug\huawei108.exe
